@@ -1,2 +1,1 @@
-gullp.github.io
-===============
+Repository per il gruppo GULLP
